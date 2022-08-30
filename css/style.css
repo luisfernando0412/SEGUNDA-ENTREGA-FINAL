@@ -11,12 +11,9 @@ h1.animate__heartBeat{
 main{
     background-image: url(../imag/fondos/fondo\ de\ link.png);
 }
-
-
-.padre-caroucel{
-    margin: 0 auto;
+.carousel-padre{
     width: 50vw;
-    background-image: url(../imag/fondos/fondo\ de\ link.png);
+    margin: 0 auto;
 }
 
 .card{
@@ -33,7 +30,7 @@ main{
 .formi{display: grid;
     flex-direction: column;
     align-items: center;}
-div {
+.boton-registrar{
     display: grid;
     justify-content: center;
 }
